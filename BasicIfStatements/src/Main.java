@@ -37,7 +37,7 @@ public class Main {
         }
         //write an if statement that prints out " but then it grew on me."  if the input does not equal 23
         if (userInput != 23) {
-            System.out.println(" but then it grew on mee.");
+            System.out.println(" but then it grew on me.");
         }
     }
 
